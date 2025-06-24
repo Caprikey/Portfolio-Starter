@@ -82,3 +82,33 @@ main {
 a:hover {
   text-decoration: underline;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #121212;
+    color: #e0e0e0;
+  }
+
+  .site-header {
+    background: #1f1f1f;
+  }
+
+  .site-footer {
+    background: #1f1f1f;
+  }
+
+  .project-card {
+    background: #1a1a1a;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  a {
+    color: #66baff;
+  }
+
+  .tag {
+    background: #0b5ea8;
+  }
+}
