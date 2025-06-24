@@ -22,6 +22,46 @@ I have experience in:
 - GitHub Actions & CI/CD
 - ETL pipelines
 
+## 🛠️ Skills
+
+### Languages & Tools
+
+✅ Python (Pandas, scikit-learn)  
+✅ R  
+✅ SQL (Postgres, MySQL, T-SQL, SQLite)  
+✅ C++  
+✅ Git & GitHub  
+✅ Docker (basic)  
+✅ GitHub Actions (CI/CD)  
+✅ Jupyter Notebooks
+
+### Data Engineering
+
+✅ ETL Pipelines (Python + SQL)  
+✅ Data Cleaning & Transformation  
+✅ Data Modeling  
+✅ API Data Extraction  
+✅ Real-time Streaming (Kafka — planned)  
+✅ DevOps for Data Projects
+
+### Visualization
+
+✅ Power BI  
+✅ Tableau  
+✅ Matplotlib, Seaborn (Python)  
+✅ Dash / Streamlit (planned)
+
+### Certifications
+
+✅ CompTIA A+  
+✅ CompTIA Network+  
+✅ CompTIA Project+  
+✅ CompTIA Data+  
+✅ ITILv4  
+✅ B.S. Data Analytics (WGU - In Progress)
+
+---
+
 Certifications:
 
 - CompTIA A+, Network+, Project+, Data+, ITILv4
