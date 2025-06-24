@@ -93,3 +93,5 @@ I am a versatile **Data Analyst** and emerging **Data Engineer** based in Tennes
 I’m always open to opportunities and collaboration — feel free to [reach out](mailto:DantyDCook@gmail.com)! 🚀
 
 ---
+
+<!-- Phoenix rising update -->
