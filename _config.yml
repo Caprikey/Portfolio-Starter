@@ -1,0 +1,13 @@
+title: Danty Cook Portfolio
+description: Data Analytics & Data Engineering Projects
+baseurl: "" # do not add anything here — "" is correct for user pages
+url: "https://caprikey.github.io/Portfolio_Starter"
+
+permalink: pretty
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
