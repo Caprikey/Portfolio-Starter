@@ -57,19 +57,8 @@ I am a versatile **Data Analyst** and emerging **Data Engineer** based in Tennes
 
 ---
 
-## 💼 Recent Projects
+{% include recent-projects.html %}
 
-{% raw %}
-{% for post in site.posts limit:3 %}
-### [{{ post.title }}]({{ post.url }})
-
-{{ post.excerpt }}
-
-[Read more →]({{ post.url }})
-
----
-{% endfor %}
-{% endraw %}
 ---
 
 ## 🏷️ Explore by Tags
