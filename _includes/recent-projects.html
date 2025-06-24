@@ -1,0 +1,10 @@
+<h2>💼 Recent Projects</h2>
+
+{% for post in site.posts limit:3 %}
+  <div class="project-card">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt }}</p>
+    <p><a href="{{ post.url }}">Read more →</a></p>
+    <hr>
+  </div>
+{% endfor %}
