@@ -1,7 +1,7 @@
 title: Danty Cook Portfolio
 description: Data Analytics & Data Engineering Projects
-baseurl: "" # do not add anything here — "" is correct for user pages
-url: "https://caprikey.github.io/Portfolio_Starter"
+url: "https://caprikey.github.io"
+baseurl: "/portfolio-starter"
 
 permalink: pretty
 
