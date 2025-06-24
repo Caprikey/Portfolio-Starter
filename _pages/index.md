@@ -30,6 +30,22 @@ I specialize in:
 
 ---
 
+## 💼 Recent Projects
+
+{% for post in site.posts limit:3 %}
+### [{{ post.title }}]({{ post.url }})
+
+{{ post.excerpt }}
+
+[Read more →]({{ post.url }})
+
+---
+
+{% endfor %}
+
+---
+
+
 ## 📄 Résumé & Certifications
 
 - [Résumé](/resume)
