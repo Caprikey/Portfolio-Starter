@@ -3,6 +3,7 @@ layout: post
 title: "UFO Sightings & CDC Birth Analysis"
 date: 2024-06-23
 categories: [Projects, Data Analytics]
+tags: [UFO, ETL, API, Python, Visualization]
 ---
 
 ## UFO Sightings & CDC Birth Analysis
