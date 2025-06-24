@@ -1,0 +1,81 @@
+/* Basic reset */
+body, h1, h2, h3, h4, h5, h6, p, ul {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+}
+
+body {
+  background-color: #f9f9f9;
+  color: #333;
+  padding: 20px;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+.site-header {
+  background-color: #222;
+  color: #fff;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+
+.site-header h1 {
+  font-size: 1.8em;
+}
+
+.site-header nav ul {
+  list-style: none;
+  margin-top: 10px;
+}
+
+.site-header nav ul li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.site-header nav ul li a {
+  color: #fff;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 30px;
+  font-size: 0.9em;
+}
+
+/* Main content */
+main {
+  max-width: 900px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+main h1, main h2, main h3 {
+  margin-bottom: 15px;
+  color: #222;
+}
+
+main p {
+  margin-bottom: 15px;
+}
+
+main ul {
+  margin-bottom: 15px;
+  padding-left: 20px;
+}
