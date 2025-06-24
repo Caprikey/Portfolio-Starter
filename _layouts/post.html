@@ -1,0 +1,7 @@
+{% if page.tags %}
+<p><strong>Tags:</strong>
+{% for tag in page.tags %}
+<span class="tag">{{ tag }}</span>
+{% endfor %}
+</p>
+{% endif %}
