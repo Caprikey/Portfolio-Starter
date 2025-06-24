@@ -35,3 +35,4 @@ Certifications:
 
 **This project is part of my ongoing learning and professional development.**  
 Thank you for visiting!
+Tschüss!
