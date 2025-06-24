@@ -4,21 +4,20 @@ title: Home
 permalink: /
 ---
 
-# 👋 Welcome to My Portfolio — Danty Cook
+# 👋 Welcome — Danty Cook Portfolio
 
-I am a Data Analyst & Data Engineer based in Tennessee.
+I am a versatile **Data Analyst** and emerging **Data Engineer** based in Tennessee — passionate about solving real-world problems through data and automation.
 
-I specialize in:
+---
 
-✅ Data Analytics  
-✅ Machine Learning  
-✅ SQL Development  
-✅ Data Engineering  
-✅ ETL Pipelines  
-✅ Visualization (Power BI, Tableau)  
-✅ DevOps & Automation  
-✅ C++, R, Python (Pandas, scikit-learn)  
-✅ ITILv4, Project+, CompTIA certified
+## 🎯 Professional Focus
+
+✅ Data Analytics & Visualization  
+✅ Machine Learning & Modeling  
+✅ Data Engineering Pipelines  
+✅ ETL & API Integration  
+✅ Automation & DevOps  
+✅ Business Process Optimization
 
 ---
 
@@ -27,6 +26,34 @@ I specialize in:
 - [UFO Sightings & CDC Birth Analysis](/projects)
 - [SQL Data Transformation & Analysis](/projects)
 - [More Projects Coming Soon!](/projects)
+
+---
+
+## 🛠️ Skills
+
+✅ Python (Pandas, scikit-learn)  
+✅ SQL (Postgres, MySQL, SQLite, T-SQL)  
+✅ R  
+✅ C++  
+✅ Power BI, Tableau  
+✅ Git & GitHub  
+✅ Docker  
+✅ GitHub Actions (CI/CD)  
+✅ Kafka (learning)  
+✅ DevOps for Data Pipelines
+
+---
+
+## 🏅 Certifications
+
+✅ CompTIA A+  
+✅ CompTIA Network+  
+✅ CompTIA Project+  
+✅ CompTIA Data+  
+✅ ITILv4  
+✅ B.S. Data Analytics (WGU - In Progress)
+
+[See Full Certifications →](/certifications)
 
 ---
 
@@ -40,68 +67,28 @@ I specialize in:
 [Read more →]({{ post.url }})
 
 ---
-
 {% endfor %}
 
 ---
 
+## 🏷️ Explore by Tags
 
-## 📄 Résumé & Certifications
+[Explore Tags →](/tags)
 
-- [Résumé](/resume)
-- [Certifications](/certifications)
+---
+
+## 📄 Learn More
+
+- [Résumé](/resume)  
+- [About Me](/about)  
+- [Certifications](/certifications)  
+- [GitHub](https://github.com/Caprikey)  
 - [LinkedIn](https://www.linkedin.com/in/danty-cook-367ba31b)
 
 ---
 
-## 🛠️ Skills
+## 🤝 Let’s Connect
 
-### Languages & Tools
-
-✅ Python (Pandas, scikit-learn)  
-✅ R  
-✅ SQL (Postgres, MySQL, T-SQL, SQLite)  
-✅ C++  
-✅ Git & GitHub  
-✅ Docker (basic)  
-✅ GitHub Actions (CI/CD)  
-✅ Jupyter Notebooks
-
-### Data Engineering
-
-✅ ETL Pipelines (Python + SQL)  
-✅ Data Cleaning & Transformation  
-✅ Data Modeling  
-✅ API Data Extraction  
-✅ Real-time Streaming (Kafka — planned)  
-✅ DevOps for Data Projects
-
-### Visualization
-
-✅ Power BI  
-✅ Tableau  
-✅ Matplotlib, Seaborn (Python)  
-✅ Dash / Streamlit (planned)
-
-### Certifications
-
-✅ CompTIA A+  
-✅ CompTIA Network+  
-✅ CompTIA Project+  
-✅ CompTIA Data+  
-✅ ITILv4  
-✅ B.S. Data Analytics (WGU - In Progress)
+I’m always open to opportunities and collaboration — feel free to [reach out](mailto:DantyDCook@gmail.com)! 🚀
 
 ---
-
-## 🔗 Connect with Me
-
-- Email: [DantyDCook@gmail.com](mailto:DantyDCook@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/danty-cook-367ba31b)  
-- [GitHub](https://github.com/Caprikey)  
-- [Indeed](#) (Add your link)  
-- [Monster](#) (Add your link)
-
----
-
-Thanks for visiting! 🚀
