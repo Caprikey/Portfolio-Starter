@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "SQL Data Transformation & Analysis Project"
+title: "SQL Data Transformation & Analysis"
 date: 2024-06-23
-categories: [Projects, SQL, Data Engineering]
+categories: [Projects, Data Engineering]
+tags: [SQL, Data Cleaning, PostgreSQL, Window Functions]
 ---
 
 ## SQL Data Transformation & Analysis Project
