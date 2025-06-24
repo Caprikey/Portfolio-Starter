@@ -25,4 +25,4 @@ plugins:
 analytics:
   provider: google-gtag
   gtag:
-    tracking_id: G-XXXXXXXXXX
+    tracking_id: G-51LKT0PS78
