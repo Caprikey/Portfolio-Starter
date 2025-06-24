@@ -4,24 +4,48 @@ title: Home
 permalink: /
 ---
 
-# Danty Cook - Data Analytics & Data Engineering Portfolio
+# 👋 Welcome to My Portfolio — Danty Cook
 
-Welcome to my project portfolio!
+I am a Data Analyst & Data Engineer based in Tennessee.
 
-Here you'll find examples of my work in:
+I specialize in:
 
-- Data Analytics
-- Data Engineering
-- Machine Learning
-- SQL Development
-- C++ Projects
-- DevOps
-- And more!
+✅ Data Analytics  
+✅ Machine Learning  
+✅ SQL Development  
+✅ Data Engineering  
+✅ ETL Pipelines  
+✅ Visualization (Power BI, Tableau)  
+✅ DevOps & Automation  
+✅ C++, R, Python (Pandas, scikit-learn)  
+✅ ITILv4, Project+, CompTIA certified
 
-## Projects
+---
 
-Check out the [Projects page](/projects) to see all of my portfolio pieces.
+## 💼 Featured Projects
 
-## About Me
+- [UFO Sightings & CDC Birth Analysis](/projects)
+- [SQL Data Transformation & Analysis](/projects)
+- [More Projects Coming Soon!](/projects)
 
-Learn more [About Me](/about).
+---
+
+## 📄 Résumé & Certifications
+
+- [Résumé](/resume)
+- [Certifications](/certifications)
+- [LinkedIn](https://www.linkedin.com/in/danty-cook-367ba31b)
+
+---
+
+## 🔗 Connect with Me
+
+- Email: [DantyDCook@gmail.com](mailto:DantyDCook@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/danty-cook-367ba31b)  
+- [GitHub](https://github.com/Caprikey)  
+- [Indeed](#) (Add your link)  
+- [Monster](#) (Add your link)
+
+---
+
+Thanks for visiting! 🚀
