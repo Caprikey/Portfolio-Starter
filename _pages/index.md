@@ -24,14 +24,17 @@ I am a versatile **Data Analyst** and emerging **Data Engineer** based in Tennes
 ## 💼 Featured Projects
 
 - [🛠️ UFO-CDC Project →](/projects/ufo-cdc/)
-- [SQL Data Transformation & Analysis](/projects)
+- [SQL Data Exploration Project](/projects/sql-project/)
+- [ML Clustering & Segmentation Project](/projects/ml-clustering/)
+- [ML Supervised Learning Project](/projects/ml-supervised/)
+- [R Data Analysis Project](/projects/r-project/)
 - [More Projects Coming Soon!](/projects)
 
 ---
 
 ## 🛠️ Skills
 
-✅ Python (Pandas, scikit-learn)  
+✅ Python (Pandas, scikit-learn, Numpy, BeautifulSoup)  
 ✅ SQL (Postgres, MySQL, SQLite, T-SQL)  
 ✅ R  
 ✅ C++  
@@ -50,8 +53,10 @@ I am a versatile **Data Analyst** and emerging **Data Engineer** based in Tennes
 ✅ CompTIA Network+  
 ✅ CompTIA Project+  
 ✅ CompTIA Data+  
+✅ CompTIA IT Operations Specialist
 ✅ ITILv4  
 ✅ B.S. Data Analytics (WGU - In Progress)
+✅ A.A.B.A Information Systems (AIU)
 
 [See Full Certifications →](/certifications)
 
@@ -82,5 +87,3 @@ I am a versatile **Data Analyst** and emerging **Data Engineer** based in Tennes
 I’m always open to opportunities and collaboration — feel free to [reach out](mailto:DantyDCook@gmail.com)! 🚀
 
 ---
-
-<!-- Phoenix rising update -->
