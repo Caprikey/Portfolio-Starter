@@ -23,7 +23,7 @@ I am a versatile **Data Analyst** and emerging **Data Engineer** based in Tennes
 
 ## 💼 Featured Projects
 
-- [UFO Sightings & CDC Birth Analysis](/projects)
+- [🛠️ UFO-CDC Project →](/projects/ufo-cdc/)
 - [SQL Data Transformation & Analysis](/projects)
 - [More Projects Coming Soon!](/projects)
 
