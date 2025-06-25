@@ -1,38 +1,24 @@
 ---
 layout: essay
-title: "Principles of Data Governance"
+title: "Data and Information Governance — Banking Sector Analysis"
 permalink: /essays/data-governance/
 date: 2025-06-24
-tags: [data-governance, essay, business]
+tags: [data-governance, banking, data-privacy, essay]
 categories: [essays]
 ---
 
-# Principles of Data Governance
-
-*By Danty Cook*
+# Data and Information Governance — Banking Sector Analysis
 
 ---
 
-[Intro paragraph here…]
+## Summary
 
-## What is Data Governance?
-
-[Essay text here…]
-
-## Key Principles
-
-[List or paragraphs…]
-
-## Challenges & Best Practices
-
-[List or paragraphs…]
-
-## Conclusion
-
-[Wrap-up…]
+This report analyzes the data and information governance maturity of a small regional bank, identifying key gaps, their origins, and practical recommendations based on industry frameworks such as DAMA-DMBOK, OECD privacy guidelines, and IBM's Data Governance Maturity Model.
 
 ---
 
-*Originally written as part of coursework for [course name / cert]*
+[👉 Read Full Report →](/essays/data-governance-full/)
 
-[Back to Home](/)
+[📄 Download Original Report (PDF)](/assets/docs/Data-And-Information-Governance-Report-DCook)
+
+[← Back to Home](/)
