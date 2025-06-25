@@ -1,10 +1,13 @@
-<h2>💼 Recent Projects</h2>
-
-{% for post in site.posts limit:3 %}
-  <div class="project-card">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.excerpt }}</p>
-    <p><a href="{{ post.url }}">Read more →</a></p>
-    <hr>
-  </div>
-{% endfor %}
+<section class="recent-projects">
+  <h2>🚀 Recent Projects</h2>
+  <ul>
+    {% assign sorted_pages = site.pages | where_exp: "page", "page.layout == 'project'" | sort: "date" | reverse %}
+    {% for project in sorted_pages limit:5 %}
+      <li>
+        <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+        <p>{{ project.description | truncate: 160 }}</p>
+        <p><a href="{{ project.url | relative_url }}">Read More →</a></p>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
