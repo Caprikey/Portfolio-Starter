@@ -32,6 +32,12 @@ I am a versatile **Data Analyst** and emerging **Data Engineer** based in Tennes
 
 ---
 
+# Featured Essays
+
+[📄 Principles of Data Governance →](/essays/data-governance/)
+
+--- 
+
 ## 🛠️ Skills
 
 ✅ Python (Pandas, scikit-learn, Numpy, BeautifulSoup)  
